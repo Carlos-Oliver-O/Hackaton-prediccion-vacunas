@@ -72,7 +72,7 @@ Tras evaluar distintos modelos, se seleccionó **XGBoost** debido a su rendimien
 
 ### Comparativa de Modelos
 
-![Comparativa de Modelos](comparativa_modelos.png)
+![Comparativa de Modelos](comparativa_modelos.jpeg)
 
 | Modelo         | RMSE  | Observaciones                                   |
 |----------------|-------|------------------------------------------------|
